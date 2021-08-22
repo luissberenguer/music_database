@@ -1,3 +1,3 @@
-# music_database
+# Music Database
 
-This is a CadeCademy project. It's aim is to create a database that captures the relationships of a musical app, like Spotify.
+The aim of this project is to design a database similar to Spotify. It is a CodeCademy project to practice the skills learned on SQL.
